@@ -1,0 +1,5 @@
+c:\users\kardelen\documents\visual studio 2012\Projects\OrtakProje\DtoLib\bin\Debug\DtoLib.dll
+c:\users\kardelen\documents\visual studio 2012\Projects\OrtakProje\DtoLib\bin\Debug\DtoLib.pdb
+c:\users\kardelen\documents\visual studio 2012\Projects\OrtakProje\DtoLib\obj\Debug\DtoLib.csprojResolveAssemblyReference.cache
+c:\users\kardelen\documents\visual studio 2012\Projects\OrtakProje\DtoLib\obj\Debug\DtoLib.dll
+c:\users\kardelen\documents\visual studio 2012\Projects\OrtakProje\DtoLib\obj\Debug\DtoLib.pdb

@@ -1,0 +1,9 @@
+c:\users\kardelen\documents\visual studio 2012\Projects\OrtakProje\WebService\bin\WebService.dll
+c:\users\kardelen\documents\visual studio 2012\Projects\OrtakProje\WebService\bin\WebService.pdb
+c:\users\kardelen\documents\visual studio 2012\Projects\OrtakProje\WebService\bin\DtoLib.dll
+c:\users\kardelen\documents\visual studio 2012\Projects\OrtakProje\WebService\bin\EntitiyLib.dll
+c:\users\kardelen\documents\visual studio 2012\Projects\OrtakProje\WebService\bin\DtoLib.pdb
+c:\users\kardelen\documents\visual studio 2012\Projects\OrtakProje\WebService\bin\EntitiyLib.pdb
+c:\users\kardelen\documents\visual studio 2012\Projects\OrtakProje\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache
+c:\users\kardelen\documents\visual studio 2012\Projects\OrtakProje\WebService\obj\Debug\WebService.dll
+c:\users\kardelen\documents\visual studio 2012\Projects\OrtakProje\WebService\obj\Debug\WebService.pdb

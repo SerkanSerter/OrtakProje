@@ -1,0 +1,10 @@
+c:\users\kardelen\documents\visual studio 2012\Projects\OrtakProje\EntitiyLib\bin\Debug\EntitiyLib.dll.config
+c:\users\kardelen\documents\visual studio 2012\Projects\OrtakProje\EntitiyLib\bin\Debug\EntitiyLib.dll
+c:\users\kardelen\documents\visual studio 2012\Projects\OrtakProje\EntitiyLib\bin\Debug\EntitiyLib.pdb
+c:\users\kardelen\documents\visual studio 2012\Projects\OrtakProje\EntitiyLib\bin\Debug\EntityFramework.dll
+c:\users\kardelen\documents\visual studio 2012\Projects\OrtakProje\EntitiyLib\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\kardelen\documents\visual studio 2012\Projects\OrtakProje\EntitiyLib\bin\Debug\EntityFramework.xml
+c:\users\kardelen\documents\visual studio 2012\Projects\OrtakProje\EntitiyLib\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\kardelen\documents\visual studio 2012\Projects\OrtakProje\EntitiyLib\obj\Debug\EntitiyLib.csprojResolveAssemblyReference.cache
+c:\users\kardelen\documents\visual studio 2012\Projects\OrtakProje\EntitiyLib\obj\Debug\EntitiyLib.dll
+c:\users\kardelen\documents\visual studio 2012\Projects\OrtakProje\EntitiyLib\obj\Debug\EntitiyLib.pdb
