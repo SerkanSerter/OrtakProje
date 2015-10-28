@@ -20,6 +20,8 @@ namespace WebService
         CompositeType GetDataUsingDataContract(CompositeType composite);
 
         // TODO: Add your service operations here
+        [OperationContract] 
+        string CalisAmk();
     }
 
 

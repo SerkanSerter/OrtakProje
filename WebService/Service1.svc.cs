@@ -29,5 +29,11 @@ namespace WebService
             }
             return composite;
         }
+
+
+        public string CalisAmk()
+        {
+            return "Calisio";
+        }
     }
 }
